@@ -1,0 +1,21 @@
+{
+    "repoName": "pxl-fpp-voting",
+    "name": "Pixel Voting - Voting Plugin for Falcon Player",
+    "author": "James Petersen, PixelVariant",
+    "description": "Provides the option to allow show viewers to vote for the next song to play",
+    "homeURL": "https://github.com/jnpetersen/pxl-fpp-voting",
+    "srcURL": "https://github.com/jnpetersen/pxl-fpp-voting.git",
+    "bugURL": "https://github.com/jnpetersen/pxl-fpp-voting/issues",
+    "allowUpdates": 1,
+    "versions": [{
+        "minFPPVersion": "3.5.7",
+        "maxFPPVersion": "0",
+        "branch": "master",
+        "sha": "",
+        "dependencies": {
+            "plugins": [],
+            "packages": [],
+            "scripts": []
+        }
+    }]
+}
