@@ -1,5 +1,5 @@
 <h1>Falcon Player Song Voting Plugin</h1>
-<h2>Barkers Random Projects</h2>
+<h2>PixelVariant</h2>
 
 
 
